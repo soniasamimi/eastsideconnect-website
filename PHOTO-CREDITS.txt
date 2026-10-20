@@ -1,0 +1,12 @@
+Eastside Connect sample website photography
+Downloaded 19 October 2026. Real photographs, not generated images.
+Photos are used in clearly labelled example websites, not as client work.
+Source pages mark these images as free under the Unsplash License:
+https://unsplash.com/license
+
+carpentry.jpg: Minh Đức
+https://unsplash.com/photos/carpenter-working-on-wood-in-workshop-VMMoVcgTnbA
+cleaning.jpg: No Revisions
+https://unsplash.com/photos/a-person-using-a-vacuum-to-clean-a-carpet-cpIgNaazQ6w
+salon.jpg: Vinicius "amnx" Amano
+https://unsplash.com/photos/a-woman-cutting-a-mans-hair-in-a-salon-8LwRf02CuPw
